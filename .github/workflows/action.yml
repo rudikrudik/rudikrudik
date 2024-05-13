@@ -20,7 +20,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRIC }}
           # Options
-          user: Rudik
+          user: rudikrudik
           template: classic
           base: header, activity, repositories, community
           config_timezone: Europe/Moscow
