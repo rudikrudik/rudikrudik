@@ -16,7 +16,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
           # Options
-          user: teuchezh
+          user: rudikrudik
           template: classic
           base: header, activity, repositories, community
           config_timezone: Europe/Moscow
@@ -83,4 +83,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
