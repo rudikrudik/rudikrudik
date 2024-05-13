@@ -41,27 +41,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: recent
-          plugin_music_provider: lastfm
-          plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: .user.login
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graph, os, os-graph
-          plugin_wakatime_limit: 5
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: teuchezh
-          plugin_stock: yes
-          plugin_stock_token: ${{ secrets.STOCK_TOKEN }} # RapidAPI Yahoo Finance token
-          plugin_stock_symbol: YNDX.ME # Display RUB to USD stock price
-          plugin_stock_duration: 1d # Display last day of market
-          plugin_stock_interval: 5m # Use precision of 5 minutes for each record
-          plugin_lines: yes
+
   snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
