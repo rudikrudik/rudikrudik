@@ -14,7 +14,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRIC }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: Rudik
           template: classic
