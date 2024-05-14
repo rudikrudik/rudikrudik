@@ -28,3 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<p align="left" >
+    <a href="https://www.codewars.com/users/rudik_rudik/badges/small">
+      <img width="100" height="20" src="https://komarev.com/ghpvc/?username=rudikrudik&style=plastic&label=Profile+Views: " />
+    </a>
+</p>
