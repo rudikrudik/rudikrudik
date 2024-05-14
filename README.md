@@ -1,13 +1,16 @@
+<!-- Основная статистика -->
 <p align="left">
     <img src="https://github.com/rudikrudik/rudikrudik/blob/main/github-metrics.svg"  width="400" alt="Something wrong">
 </p>
 
+<!-- Задачи с кодеварс -->
 <p align="left" >
     <a href="https://www.codewars.com/users/rudik_rudik/badges/small">
       <img width="400" src="https://www.codewars.com/users/rudik_rudik/badges/small" />
     </a>
 </p>
 
+<!-- Иконки -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
@@ -29,8 +32,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p align="left" >
+<!--p align="left" >
     <a href="https://www.codewars.com/users/rudik_rudik/badges/small">
       <img width="100" height="20" src="https://komarev.com/ghpvc/?username=rudikrudik&style=plastic&label=Profile+Views: " />
     </a>
-</p>
+</p-->
