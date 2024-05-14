@@ -2,4 +2,4 @@
 
 <!--![Codewars](https://github.r2v.ch/codewars?user=rudik_rudik&theme=light&top_languages=true&animation=false&hide_clan=true)-->
 
-![Codewars](https://github.r2v.ch/codewars?user=rudik_rudik&theme=gradient_light&top_languages=true&animation=false&hide_clan=true)
+![Codewars]([https://www.codewars.com/users/rudik_rudik/badges/small](https://www.codewars.com/users/rudik_rudik/badges/small))
