@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRIC }}
