@@ -15,7 +15,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+      # old lowlighter/metrics@latest 
         name: Generate User Metrics
         with:
           # Your GitHub token
@@ -41,11 +42,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
-      - uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
-        name: Generate achievements Metrics
-        with: 
-          filename: images/achievements-metrics.svg
-          token: ${{ secrets.METRIC }}
           plugin_achievements: yes
           plugin_achievements_limit: 0
           plugin_achievements_secrets: yes
